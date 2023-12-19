@@ -1,0 +1,17 @@
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\bin\Debug\net6.0\PostcodeLookup_CONSOLE.exe
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\bin\Debug\net6.0\PostcodeLookup_CONSOLE.deps.json
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\bin\Debug\net6.0\PostcodeLookup_CONSOLE.runtimeconfig.json
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\bin\Debug\net6.0\PostcodeLookup_CONSOLE.dll
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\bin\Debug\net6.0\PostcodeLookup_CONSOLE.pdb
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\obj\Debug\net6.0\PostcodeLookup_CONSOLE.csproj.AssemblyReference.cache
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\obj\Debug\net6.0\PostcodeLookup_CONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\obj\Debug\net6.0\PostcodeLookup_CONSOLE.AssemblyInfoInputs.cache
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\obj\Debug\net6.0\PostcodeLookup_CONSOLE.AssemblyInfo.cs
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\obj\Debug\net6.0\PostcodeLookup_CONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\obj\Debug\net6.0\PostcodeLookup_CONSOLE.csproj.CopyComplete
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\obj\Debug\net6.0\PostcodeLookup_CONSOLE.dll
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\obj\Debug\net6.0\refint\PostcodeLookup_CONSOLE.dll
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\obj\Debug\net6.0\PostcodeLookup_CONSOLE.pdb
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\obj\Debug\net6.0\PostcodeLookup_CONSOLE.genruntimeconfig.cache
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PostcodeLookup_CONSOLE\PostcodeLookup_CONSOLE\obj\Debug\net6.0\ref\PostcodeLookup_CONSOLE.dll
