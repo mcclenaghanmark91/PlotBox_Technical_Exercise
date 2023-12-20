@@ -58,3 +58,6 @@ C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PlotBoxTechE
 C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PlotBoxTechEx\PlotBoxTechEx\obj\Debug\net6.0\PlotBoxTechEx.pdb
 C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PlotBoxTechEx\PlotBoxTechEx\obj\Debug\net6.0\PlotBoxTechEx.genruntimeconfig.cache
 C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PlotBoxTechEx\PlotBoxTechEx\obj\Debug\net6.0\ref\PlotBoxTechEx.dll
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PlotBoxTechEx\PlotBoxTechEx\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PlotBoxTechEx\PlotBoxTechEx\obj\Debug\net6.0\PlotBoxTechEx.csproj.AssemblyReference.cache
+C:\Users\Mark McClenaghan\Desktop\TechEx\PlotBox_Technical_Exercise\PlotBoxTechEx\PlotBoxTechEx\obj\Debug\net6.0\PlotBoxTechEx.csproj.CopyComplete

@@ -1,4 +1,6 @@
-﻿@{
+﻿@model PostcodeViewModel
+
+@{
     ViewData["Title"] = "PlotBox Tech Ex";
 }
 
@@ -17,3 +19,28 @@
         <button type="submit" class="btn btn-primary mb-2">Search</button>
     </form>
 </div>
+
+@if (Model.ShowResults)
+{
+    <div class="text-center col-xs-12">
+        @if (!string.IsNullOrEmpty(Model.Error))
+        {
+            <div class="alert alert-danger" role="alert" style="border-radius: 25px;">
+                @Model.Error
+            </div>
+        }
+        else if (!string.IsNullOrEmpty(Model.Postcode))
+        {
+            <div class="text-centre">
+                <p><strong>Postcode:</strong> @Model.Postcode</p>
+                <p><strong>Country:</strong> @Model.Country</p>
+                <p><strong>Admin District:</strong> @Model.Admin_District</p>
+                <p><strong>Longitude:</strong> @Model.Longitude</p>
+                <p><strong>Latitude:</strong> @Model.Latitude</p>
+                <p><strong>Eastings:</strong> @Model.Eastings</p>
+                <p><strong>Northings:</strong> @Model.Northings</p>
+            </div>
+        }
+    </div>
+    
+}
