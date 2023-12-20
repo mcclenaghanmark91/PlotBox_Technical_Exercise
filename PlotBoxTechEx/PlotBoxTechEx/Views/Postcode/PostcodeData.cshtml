@@ -6,6 +6,22 @@
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
+<style>
+    table{
+        display: inline-block;
+        border: 1px solid lightblue;
+        border-radius: 25px;
+        background-color: lightblue;
+    }
+    td{
+        text-align: left;
+        padding: 10px;
+    }
+    span{
+        font-weight:bold;
+    }
+</style>
+
 <div class="text-center">
     <img src="~/images/plotbox_logo.png" />
     <h1 class="display-4">Developer Technical Exercise</h1>
@@ -22,25 +38,50 @@
 
 @if (Model.ShowResults)
 {
-    <div class="text-center col-xs-12">
+    <div class="text-center" style="margin-bottom: 50px;">
         @if (!string.IsNullOrEmpty(Model.Error))
         {
-            <div class="alert alert-danger" role="alert" style="border-radius: 25px;">
+            <div class="alert alert-danger" role="alert" style="border-radius: 25px; display: inline-block;">
                 @Model.Error
             </div>
         }
         else if (!string.IsNullOrEmpty(Model.Postcode))
         {
-            <div class="text-centre">
-                <p><strong>Postcode:</strong> @Model.Postcode</p>
-                <p><strong>Country:</strong> @Model.Country</p>
-                <p><strong>Admin District:</strong> @Model.Admin_District</p>
-                <p><strong>Longitude:</strong> @Model.Longitude</p>
-                <p><strong>Latitude:</strong> @Model.Latitude</p>
-                <p><strong>Eastings:</strong> @Model.Eastings</p>
-                <p><strong>Northings:</strong> @Model.Northings</p>
+            <div>
+                <table>
+                    <tr>
+                        <td><span>Postcode:</span></td>
+                        <td>@Model.Postcode</td>
+                    </tr>
+                    <tr>
+                        <td><span>Country:</span></td>
+                        <td>@Model.Country</td>
+                    </tr>
+                    <tr>
+                        <td><span>Admin District:</span></td>
+                        <td>@Model.Admin_District</td>
+                    </tr>
+                    <tr>
+                        <td><span>Longitude:</span></td>
+                        <td>@Model.Longitude</td>
+                    </tr>
+                    <tr>
+                        <td><span>Latitude:</span></td>
+                        <td>@Model.Latitude</td>
+                    </tr>
+                    <tr>
+                        <td><span>Eastings:</span></td>
+                        <td>@Model.Eastings</td>
+                    </tr>
+                    <tr>
+                        <td><span>Northings:</span></td>
+                        <td>@Model.Northings</td>
+                    </tr>
+                </table>
             </div>
         }
     </div>
+        
+        
     
 }
